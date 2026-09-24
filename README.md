@@ -91,4 +91,9 @@ Using the John command, the hash.txt file was run against the rocky.txt wordlist
 ![](flag_pdf2.png)
 ![](JTR_pdf3.png)
 ![](flag_pdf3.png)
-
+![](hash1.png)
+![](result1.png)
+![](hash2.png)
+![](result2.png)
+![](hash3.png)
+![](result3.png)
