@@ -86,7 +86,7 @@ Using the John command, the hash.txt file was run against the rocky.txt wordlist
 ## 5. Evidence Collected.
 
 ![](JTR_pdf1.png)
-![](flag_pdf1t.png)
+![](flag_pdf1.png)
 ![](JTR_pdf2.png)
 ![](flag_pdf2.png)
 ![](JTR_pdf3.png)
